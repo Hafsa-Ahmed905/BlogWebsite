@@ -26,4 +26,9 @@ Blog post exploring the concept of happiness and life fulfillment, discussing wh
 ```bash
 # Open blog.html in your browser
 ```
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
 
